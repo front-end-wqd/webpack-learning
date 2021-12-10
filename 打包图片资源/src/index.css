@@ -1,0 +1,7 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-image: url(./cute.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
